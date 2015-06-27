@@ -5,13 +5,14 @@ Bot Saget is a robotic friend that feels happiness, hunger, and tiredness that y
 
 A video demo we filmed and edited can be found [here](https://www.youtube.com/watch?v=eY4cmvgeYtk)
 
-## Hardware Used
-- Arduino
-- Xbee
-- Parallax ActivityBot
+## Hardware and Sensors Used
+- Hardware
+	- Arduino
+    - Xbee
+    - Parallax ActivityBot
 - Sensors
-  - Emic 2
-  - EasyVR Command Module
+    - Emic 2
+    - EasyVR Command Module
 
 ==================
 Written in C for Arduino and Xbee
