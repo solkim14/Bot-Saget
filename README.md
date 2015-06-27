@@ -9,7 +9,6 @@ A video demo we filmed and edited can be found [here](https://www.youtube.com/wa
 - Arduino
 - Xbee
 - Parallax ActivityBot
-
 - Sensors
   - Emic 2
   - EasyVR Command Module
